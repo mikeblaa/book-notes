@@ -10,6 +10,10 @@ Completed notes from books that I've finished reading.
 
 Incomplete notes from books that I haven't yet finished reading.
 
+* [Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework](project-to-product.markdown) by Mik Kersten
+* [Team Topologies: Organizing Business and Technology Teams for Fast Flow](team-topologies.markdown) by Matthew Skelton, Manuel Pais
+* [The Fifth Discipline: The Art and Practice of the Learning Organization](the-fifth-discipline.markdown) by Peter Senge
+
 ### ToDo Notes
 
 Notes from books that I've finished reading but haven't made notes yet.
