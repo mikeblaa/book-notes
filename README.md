@@ -61,7 +61,24 @@ Notes from books that I've finished reading but haven't made notes yet.
 * Think Like a Freak: The Authors of Freakonomics Offer to Retrain Your Brain by Steven D. Levitt, Stephen J. Dubner
 * War and Peace and IT: Business Leadership, Technology, and Success in the Digital Age by Mark Schwartz
 * Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
-* 
+* Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations by Nicole Forsgren PhD, Jez Humble, Gene Kim
+* Coders at Work: Reflections on the Craft of Programming by Peter Seibel
+* DevOps for the Modern Enterprise: Winning Practices to Transform Legacy IT Organizations by Mirco Hering
+* Lean Software Development: An Agile Toolkit: An Agile Toolkit (Agile Software Development Series) by Mary Poppendieck, Tom Poppendieck
+* Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions by Dan Ariely
+* The Art of Business Value by Mark Schwartz
+* The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home by Dan Ariely
+
+### To Read
+
+Books in my library that I need to read
+
+* Agile Conversations: Transform Your Conversations, Transform Your Culture by Douglas Squirrel, Jeffrey Fredrick
+* Impact Mapping: Making a big impact with software products and projects by Gojko Adzic
+* Leading the Transformation: Applying Agile and DevOps Principles at Scale by Gary Gruver, Tommy Mouser
+* Planning for Everything: The Design of Paths and Goals by Peter Morville
+* The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
+* The Simplicity Cycle: A Field Guide to Making Things Better Without Making Them Worse by Dan Ward
 
 ### Other Notes
 
