@@ -6,6 +6,7 @@ Notes from books I've read or listened to. Credit to https://github.com/mgp/book
 
 Completed notes from books that I've finished reading.
 
+* [A Seat at the Table: IT Leadership in the Age of Agility](a-seat-at-the-table.md) by Mark Schwartz
 * [The Goal: A Process of Ongoing Improvement - 30th Anniversary Edition](the-goal.md) by Eliyahu M. Goldratt, Jeff Cox
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](the-phoenix-project.md) by Gene Kim
 * [Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions](predictably-irrational.md) by Dan Ariely
@@ -23,7 +24,6 @@ Incomplete notes from books that I haven't yet finished reading.
 
 Notes from books that I've finished reading but haven't made notes yet.
 
-* A Seat at the Table: IT Leadership in the Age of Agility by Mark Schwartz
 * Antifragile: Things That Gain from Disorder by Nassim Nicholas Taleb
 * Argumentation: The Study of Effective Reasoning, 2nd Edition by David Zarefsky, The Great Courses
 * Chief Joy Officer: How Great Leaders Elevate Human Energy and Eliminate Fear by Richard Sheridan
