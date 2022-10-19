@@ -4,7 +4,9 @@ Notes from books I've read or listened to. Credit to https://github.com/mgp/book
 
 ### Completed Notes
 
-Completed notes from books that I've finished reading. 
+Completed notes from books that I've finished reading.
+
+* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](the-phoenix-project.md) by Gene Kim
 
 ### Incomplete Notes
 
@@ -13,6 +15,7 @@ Incomplete notes from books that I haven't yet finished reading.
 * [Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework](project-to-product.md) by Mik Kersten
 * [Team Topologies: Organizing Business and Technology Teams for Fast Flow](team-topologies.md) by Matthew Skelton, Manuel Pais
 * [The Fifth Discipline: The Art and Practice of the Learning Organization](the-fifth-discipline.md) by Peter Senge
+
 
 ### ToDo Notes
 
