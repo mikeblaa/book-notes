@@ -6,6 +6,7 @@ Notes from books I've read or listened to. Credit to https://github.com/mgp/book
 
 Completed notes from books that I've finished reading.
 
+* [The Goal: A Process of Ongoing Improvement - 30th Anniversary Edition](the-goal.md) by Eliyahu M. Goldratt, Jeff Cox
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](the-phoenix-project.md) by Gene Kim
 
 ### Incomplete Notes
@@ -56,7 +57,6 @@ Notes from books that I've finished reading but haven't made notes yet.
 * The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Patrick Debois, John Willis, Jez Humble
 * The Distracted Mind: Ancient Brains in a High-Tech World by Larry D. Rosen, Adam Gazzaley
 * The Five Dysfunctions of a Team: A Leadership Fable by Patrick Lencioni
-* The Goal: A Process of Ongoing Improvement - 30th Anniversary Edition by Eliyahu M. Goldratt, Jeff Cox
 * The Laws of Simplicity: Design, Technology, Business, LifeDesign, Technology, Business, Life by John Maeda
 * The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience by Carmine Gallo
 * The Righteous Mind: Why Good People Are Divided by Politics and Religion by Jonathan Haidt
