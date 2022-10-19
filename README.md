@@ -8,6 +8,7 @@ Completed notes from books that I've finished reading.
 
 * [The Goal: A Process of Ongoing Improvement - 30th Anniversary Edition](the-goal.md) by Eliyahu M. Goldratt, Jeff Cox
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](the-phoenix-project.md) by Gene Kim
+* [Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions](predictably-irrational.md) by Dan Ariely
 
 ### Incomplete Notes
 
@@ -68,7 +69,6 @@ Notes from books that I've finished reading but haven't made notes yet.
 * Coders at Work: Reflections on the Craft of Programming by Peter Seibel
 * DevOps for the Modern Enterprise: Winning Practices to Transform Legacy IT Organizations by Mirco Hering
 * Lean Software Development: An Agile Toolkit: An Agile Toolkit (Agile Software Development Series) by Mary Poppendieck, Tom Poppendieck
-* Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions by Dan Ariely
 * The Art of Business Value by Mark Schwartz
 * The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home by Dan Ariely
 
