@@ -1,10 +1,10 @@
-## The Goal - A Process of Ongoing Improvement
+# The Goal - A Process of Ongoing Improvement
 
-### Plot Summary
+## Plot Summary
 
 Alex Rogo is a harried plant manager working ever more desperately to try improve performance. His factory is rapidly heading for disaster. He has ninety days to save his plant - or it will be closed by corporate HQ, with hundreds of job losses. It takes a chance meeting with a professor from student days - Jonah - to help him break out of conventional ways of thinking to see what needs to be done. The story of Alex's fight to save his plant is more than compulsive reading. It contains a serious message for all managers in industry and explains the ideas, which underline the Theory of Constraints (TOC), developed by Eli Goldratt.
 
-### What is the goal of a manufacturing organization?
+## What is the goal of a manufacturing organization?
 
 Story: Alex randomly crosses path with Jonah in an airport. Alex tells Jonah about how his plant just installed new robots. Alex tells Jonah the robots increased efficiency by 36%. Jonah starts asking questions:
 
@@ -22,8 +22,7 @@ After much reflection, Alex realizes:
 
 The goal of a manufacturing organization is to make money.
 
-
-### Measurements which express the goal
+## Measurements which express the goal
 
 Story: Alex calls Jonah to say he figured out the goal but asks: “In order to know if my plant is helping the company make money, I have to have some kind of measurements, right?” Jonah talks him through it
 
@@ -41,8 +40,7 @@ When you lay off people, do you increase sales? Do you reduce your inventory?
 
 Parallel: What is throughput in terms of software? What is inventory?
 
-
-### Two phenomena which are found in every plant
+## Two phenomena which are found in every plant
 
 Story: Alex takes his son’s boy scout troop on a hike. He can’t seems to keep the line together and they are falling way behind schedule. Alex solves the problem with the hike and it causes him to realize something about his plant.
 
@@ -54,15 +52,14 @@ The hike is a set of dependent events in combination with statistical fluctuatio
 
 What are examples of this in your own organization? Development? QA?
 
-
-### Two types of resources
+## Two types of resources
 
 * Bottleneck - any resource whose capacity is equal to or less than the demand placed
 upon it
 * Non-Bottleneck - any resource whose capacity is greater than the demand placed upon
 it
 
-Which of the two types of resources determines the effective capacity of the plant? To increase the capacity of the plant is to increase the capacity of only the bottleneck. 
+Which of the two types of resources determines the effective capacity of the plant? To increase the capacity of the plant is to increase the capacity of only the bottleneck.
 
 Story - NCX-10 n/c machine idle on lunch break, pile of inventory in front of heat treat
 
@@ -74,8 +71,7 @@ Jonah: “Make sure the bottleneck works only on good parts by weeding out the o
 
 Parallel: Automated Unit Testing before Manual Testing & QA
 
-
-### Time and Batch sizes
+## Time and Batch sizes
 
 From the moment material comes into the plan to the minute it goes out the door as part of a finished product, you can divide that time into four elements:
 
@@ -98,8 +94,7 @@ Reduce the time parts spend in the plant and our total lead time condenses. With
 turn-around on orders, customers get their orders faster. With shorter lead times, we can
 respond faster. If we can respond to the market faster, we get an advantage in the marketplace.
 
-
-### Process of on-going improvement
+## Process of on-going improvement
 
 “Everywhere, improvement was interpreted as almost synonymous to cost savings. People are
 concentrating on reducing operating expenses as if it’s the most important measurement.”
@@ -118,8 +113,7 @@ STEP 3 SUBORDINATE everything else to the above decision (Making sure everything
 STEP 4 ELEVATE the system’s constraint (Bringing back old machines)
 STEP 5 If, in a previous step, a constraint has been broken go back to Step 1
 
-
-### Match Game
+## Match Game
 
 Need:
 Dice
@@ -138,7 +132,6 @@ cycle? 3.5 is the average of the 6 numbers on the dice.
 Make it interesting. Let’s say that everyone has a quota of 3.5 matches per turn. Anybody who does better than that, who averages more than 3.5 matches, doesn’t have to wash any dishes tonight.
 
 Record the amount that each of them deviates from the average. They all start at zero. If the roll of the die is a 4, 5, or 6 then record - respectively - a gain of .5, 1.5, or 2.5. And if the roll is a 1, 2, or 3, then record a loss of -2.5, -1.5, or -.5. The deviations have to be cumulative.
-
 
 ## Notes
 

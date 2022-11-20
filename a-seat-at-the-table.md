@@ -1,11 +1,11 @@
-## A Seat at the Table – IT Leadership in the Age of Agility
+# A Seat at the Table – IT Leadership in the Age of Agility
 
 by Mark Schwartz
 
 "Mark Schwartz is a rare combination: a deep thinker who has also applied lean, Agile, and DevOps principles at the highest level, leading an extraordinary Agile transformation in the US Federal Government at USCIS. In this book, he shows how modern IT leaders succeed by driving business outcomes rather than operating an order-taking function. This shift in organizational mindset is critical to any successful technology transformation but requires substantial changes in behavior at every level, and Mark's thorough analysis will prove invaluable to leaders who must execute it."
  – **Jez Humble** , CTO, DevOps Research & Assessment, LLC
 
-### A Few Themes
+## A Few Themes
 
 **Getting in Our Own Way:** First, that we have locked ourselves into a frame of reference that is getting in our way as we try to become Agile. This frame of reference includes the notions of project, systems, application, investment, architecture, skill set, and accountability. We have, to be honest, made a jumble of these concepts.
 
@@ -26,7 +26,7 @@ by Mark Schwartz
 3. Respect the current process, roles, responsibilities, and titles
 4. Encourage leadership at all levels
 
-### Planning
+## Planning
 
 **Espousing the Wrong Values:** The real reason we should reject the plan-driven approach to IT is that it espouses all the wrong values.
 
@@ -45,7 +45,7 @@ Business value is destroyed only when we substitute extensive planning for execu
 - How will the team seek feedback on its work? How will it solicit feedback and guidance from management? How frequently will it engage management? I want to make sure that we have an understanding on how my input and feedback will enter into their process.
 - What are the key risks to delivery? What assumptions are contained in the plans? How will the team move quickly to test those assumptions and gain information to manage the risks? I want to understand their plan for learning.
 
-### Requirements
+## Requirements
 
 **Requirements simply don't exist:** A requirement is a constraint. It is a way of saying "create value this way, rather than other ways." Really, a requirement is a constraint masquerading as a decision.
 
@@ -57,7 +57,7 @@ Business value is destroyed only when we substitute extensive planning for execu
 - The best framework I have found for working with desired outcomes as requirements is Gojko Adzic's _Impact Mapping: Making a Big Impact with Software Products and Projects_.
 - The age of IT organizations hiding behind requirements—"just tell me what you need"— is gone. IT leaders must instead take ownership, responsibility, and accountability for accomplishing the business's objectives. The IT leader must have the courage to own outcomes.
 
-### Transformation
+## Transformation
 
 **Mistakes have been made:** Transformational projects are evidence that a mistake has been made.
 
@@ -71,7 +71,7 @@ Business value is destroyed only when we substitute extensive planning for execu
 - Then we take another piece out of the legacy system and do the same thing. And another. And another. Until eventually there is nothing left of the legacy system—it has vanished, piece by piece, like Alice in Wonderland's Cheshire Cat.
 - The strangler pattern overcomes a critical problem many of us have faced in applying Agile techniques to modernizations. In the absence of the strangler pattern, we would develop a new system on the modernized architecture and then move the users over to it. The problem is that the users cannot begin using the new system until its capabilities at least match those of the legacy system. Because this usually takes a while, the first release of the new system doesn't come for quite some time, which works against the Agile principle of delivering value quickly and frequently. Legacy modernizations cannot be done in an Agile way without the strangler pattern.
 
-### Enterprise Architecture
+## Enterprise Architecture
 
 Enterprise Architecture, the domain of the IT bureaucrats, is the place we must look for the solution to our Agile challenges. We shall journey to the land of the template zombies to retrieve our golden asset, careful to carry mirrors to avoid petrification. Good luck, Agile fellows.
 
@@ -103,7 +103,7 @@ What does such an EA, brimming with latent value, look like?
 - It has good monitoring tools in place.
 - It is coded in a way that resists hard-to-find defects like concurrency errors.
 
-### Build Versus Buy
+## Build Versus Buy
 
 Everyone knows that in every case under the sun, in any example one can imagine, when rational human beings are making decisions, if an IT product can be acquired "off the shelf," it is better to do so than to build it. This obvious fact is neat, plausible, and in most cases, wrong.
 
@@ -135,7 +135,7 @@ Everyone knows that in every case under the sun, in any example one can imagine,
 - Option 2: Compare that to the risk of buying a vendor's product, where the investment is one large lump sum—and a commitment to future maintenance payments. Then, of course, there is the risk of the vendor going out of business or discontinuing the product. It seems strange that back in the Stone Age (yesterday) we believed that it was riskier to develop custom code.
 - So, today's choice is no longer really between build and buy. It is between quickly assembling best-practice frameworks with continuous user feedback and then continuing to adapt the system over time as the business changes versus buying an undefined stream of future services from a vendor who doesn't know your business and doesn't have financial incentives to support you. Text "1" to @obvious if you like the first option, or "2" to @/dev/null if you prefer the second.
 
-### Governance and Oversight
+## Governance and Oversight
 
 Governance has traditionally been viewed as a filter; a way of allocating scarce IT resources among many competing projects. In an environment where IT has a limited capacity and the company's needs for IT are insatiable, governance provides a way to say no to proposed projects, absolving IT leaders from having to take personal responsibility for such decisions.
 
@@ -209,7 +209,7 @@ This oversight approach is simple and powerful. Requiring only four short docume
 
 It is also a logical extension of the continuous feedback and learning principles that underlie all Lean and Agile practices. Daily standups and burndown charts give the team rapid feedback on whether it will finish the work of the sprint on time. Sprint reviews provide frequent feedback from stakeholders. And my two-week and quarterly reviews give the team feedback from management. There is magic here: all of these types of feedback increase the velocity of development without anyone working any faster!
 
-### Risk
+## Risk
 
 _The presence of uncertainty is the simple reason why Agile approaches work better than plan-driven approaches—it is also the reason why a good IT leader will often have to make "wrong" decisions. An IT leader adds business value by adopting an intelligent attitude toward risk._
 
@@ -241,7 +241,7 @@ _The presence of uncertainty is the simple reason why Agile approaches work bett
 - If it becomes truly necessary to hit a schedule milestone, then we can adjust our scope to be sure that we do so.
 - The importance that we have attached to the timing of FOC is just another example of the misconception that IT delivery is about delivering discrete, finished products. We want our FOC because we think that is the point at which we are finished investing and just need to "maintain." But unless we want functional and technical debt, a lumpy EA, and a need to do an expensive and risky transformation effort, FOC is in no sense a "final" operating capability.
 
-### Quality
+## Quality
 
 _It is difficult for IT to gain a seat at the table when IT is always failing, but on the other hand, an IT leader who is reacting to statistical noise—failures that he or she has already chosen to accept—is destroying business value. An IT leader must have the necessary technical skills, make impeccable decisions under uncertainty, and then have the courage to face the consequences._
 
@@ -265,7 +265,7 @@ _It is difficult for IT to gain a seat at the table when IT is always failing, b
 - In our new world, we can simply implement one of the approaches and see how it works for us. We could even try the other approach as well and compare. We are comfortable with the idea that we will break things in testing, because the end result of doing so is that we can make a decision more quickly and with more good information available.
 - "Failing" in this sense is simply an efficient process we use to select among alternatives.
 
-### Shadow IT
+## Shadow IT
 
 _Agile ways of working support a community approach to IT, where IT leaders achieve their objectives by mobilizing the skills and passions of a broad community and encourage the members of that community to work together across organizational silos in a way that values skills and contributions._
 
@@ -280,7 +280,7 @@ _Agile ways of working support a community approach to IT, where IT leaders achi
 - **Focus of roles is changing:** The software engineer role is increasing in importance. Tests and infrastructure are now both represented in code; with SDN, soon even the network will be. Infrastructure can now be tested, like code; it can be placed in version control.
 - **Technology matters:** Most IT people are technologists; they need to work with technology, to touch technology, to walk and talk technology—at least some of the time. They are in your IT organization because they enjoy technology; they are proud to be technologists. It is time to shake off the last traces of the attitude that this is something to be ashamed of or that they need to be controlled, learn to speak the language of the business, or start wearing jackets and ties.
 
-### The CIO's Place at the Table
+## The CIO's Place at the Table
 
 _IT leadership runs the business along with the others who run the business. The seat at the table is earned by being at the table._
 
