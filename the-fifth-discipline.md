@@ -87,3 +87,7 @@ There are two types of feedback:
 * One of the highest leverage points of improving system performance is minimizing delays
 * Happen when the effect of one variable has a delay when effecting another
 * Think about a shower that takes a long time for the temperature to respond to your control adjustment
+
+## References
+
+1. Beer Game Simulation: <https://beergame.masystem.se/>
