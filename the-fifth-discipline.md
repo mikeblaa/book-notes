@@ -2,13 +2,13 @@
 
 by Peter M. Senge
 
-## Chapter 1
+## Chapter 1 - How Our Actions Create Our Reality And How We Can Change It
 
 * It's people that learn, not organizations, not systems
 * The 'Beer Game' developed at Sloan Business School teaches systems thinking
 * When cause and effect are not close in time and space, our ability to connect to the two starts to fall away. When cause and effect is immediate, we are good at learning. When cause and effect are far apart, we have a hard time understanding the system
 
-## Chapter 2
+## Chapter 2 - The Fifth Discipline: The Cornerstone Of The Learning Organization
 
 ### Learning Disabilities
 
@@ -86,7 +86,72 @@ There are two types of feedback:
 
 * One of the highest leverage points of improving system performance is minimizing delays
 * Happen when the effect of one variable has a delay when effecting another
+* American manufacturers came to recognize that while they worked traditionally to tightly control inventory, their Japenese counterparts have concentrated on reducing delays, a much more successful effort
 * Think about a shower that takes a long time for the temperature to respond to your control adjustment
+
+### Personal Mastery (36:30)
+
+* Organizations learn only through individuals that learn
+* People with a high level of person mastery live in a continual learning mode, they never arrive
+* People with a high level of personal mastery are acutely aware of their ignorance, their incompetence, their growth areas, and they are deeply self-confident
+* Personal mastery is a process, a lifelong discipline
+
+### TODO: Creative Tension???
+
+## Chapter 3 - The Core Disciplines: Building The Learning Organization
+
+### Shared Vision (1:00)
+
+* Personal vision leads to shared vision
+* At its simplest level, a shared vision is the answer to the question "what do we want to create?"
+* TODO: Leaders need to listen
+* TODO: Levels
+  * Compliant
+  * Enrolled
+  * Committed
+
+### Governing Ideas (17:30)
+
+* Vision, Purpose (or Mission), and Core Values
+* Vision is the what, Purpose (or Mission) is the why, Core Values is the how
+* Taken as a unit, all three governing ideas answer the question "what do we believe in?"
+
+### Mental Models (31:00)
+
+* Mental models are active and shape how we act
+* TODO: examples
+* TODO: tie back to systems thinking, feedback
+
+### Advocacy vs. Inquiry (58:??)
+
+* TODO
+
+## Chapter 4 - Reflections From Practice
+
+### Team Learning (0:15)
+
+* People who need one another to act are becoming the key learning unit in organizations
+* Three critical dimensions:
+  * Need to think insightfully about complex issues, tap the intelligence of many minds
+  * Need for innovative, coordinated action
+  * Teams members on other teams for learning
+* Starts with mastering the practice of dialog and discussion
+  * Dialog: the free and creative of exploration of complex issues, a deep listening to one another and suspending of one's own views
+  * Discussion: different views are presented and defended and there is a search for the best view to support decisions that must be made at the time
+* A sustained emphasis on winning is not compatible with giving first priority to coherence and truth
+* Three basic conditions that are necessary for dialog:
+  * All participants must suspend their assumptions
+  * All participants must regard one another as colleagues
+  * There must be a facilitator who holds the context of dialog
+
+### Getting Started (Ch4 43:10)
+
+* How can we overcome the politics, the games, the back biting?
+* First step is always with individuals, don't bury these concerns
+* Current reality is just current reality, its not good or bad, it just is
+* Start with the question, where are our partners?
+* Groups who can start to learn are the groups who have some power to take action
+* Learning is always about taking action
 
 ## References
 
