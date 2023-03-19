@@ -12,6 +12,7 @@ Completed notes from books that I've finished reading.
 * [The Goal: A Process of Ongoing Improvement - 30th Anniversary Edition](the-goal.md) by Eliyahu M. Goldratt, Jeff Cox
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](the-phoenix-project.md) by Gene Kim
 * [Predictably Irrational, Revised and Expanded Edition: The Hidden Forces That Shape Our Decisions](predictably-irrational.md) by Dan Ariely
+* [The Fifth Discipline: The Art and Practice of the Learning Organization](the-fifth-discipline.md) by Peter Senge
 
 ### Incomplete Notes
 
@@ -19,7 +20,7 @@ Incomplete notes from books that I haven't yet finished reading.
 
 * [Project to Product: How to Survive and Thrive in the Age of Digital Disruption with the Flow Framework](project-to-product.md) by Mik Kersten
 * [Team Topologies: Organizing Business and Technology Teams for Fast Flow](team-topologies.md) by Matthew Skelton, Manuel Pais
-* [The Fifth Discipline: The Art and Practice of the Learning Organization](the-fifth-discipline.md) by Peter Senge
+* [Staff Engineer: Leadership Beyond the Management Track](staff-engineer.md) by Will Larson
 
 ### ToDo Notes
 
