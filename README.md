@@ -74,6 +74,7 @@ Notes from books that I've finished reading but haven't made notes yet.
 * The Art of Business Value by Mark Schwartz
 * The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home by Dan Ariely
 * Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better
+* The Laws of Simplicity: Design, Technology, Business, Life
 
 ### To Read
 
