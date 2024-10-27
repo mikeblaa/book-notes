@@ -11,7 +11,7 @@ by Mark Schwartz
 
 **IT as an Asset:** Second, that the business value of IT is more like the value of an intangible asset, which I will call – despite some disconcerting connotations of the term – the Enterprise Architecture. The asset view of IT will substitute for the outdated project view in my vision for what IT leadership must become.
 
-**Uncertainty and Risk:** Third, underlying all of these changes – all of the problems with plan-drive approaches, all of the advantages of Agile approaches – is a confusion about how to deal with uncertainty and risk. What I call the "contractor-control paradigm" – is really about trying to make risk go away, when risk really the essence of what we do.
+**Uncertainty and Risk:** Third, underlying all of these changes – all of the problems with plan-drive approaches, all of the advantages of Agile approaches – is a confusion about how to deal with uncertainty and risk. What I call the "contractor-control paradigm" – is really about trying to make risk go away, when risk is really the essence of what we do.
 
 **Complex Adaptive Systems:** Fourth and last, that the business should be thought of as a community, or perhaps as a Complex Adaptive System, which needs to be led and managed through an inspect-and-adapt, feedback-and-vision-oriented approach because of its complexity.
 
@@ -19,7 +19,7 @@ by Mark Schwartz
 
 **Agile in One Paragraph:** Agile thinking simply says that we should empower small teams to inspect and adapt rather than stick to a plan. Lean thinking gives that small team ways to speed up its inspecting and adapting process to maximize its impact. Continuous Delivery and DevOps place the entire value stream in the hands of that small team so that it can optimize the whole – a term of art in lean thinking – and be empowered as a team to own the entire value delivery process. \<Bow/\>\<Applause/\>
 
-**Brining Lean Principles to Software Development:** Kanban is David Anderson's approach to bringing Lean principles into software development while driving fear out of the transformation process through incremental change. Anderson provides four rules for implementing Kanban:
+**Bringing Lean Principles to Software Development:** Kanban is David Anderson's approach to bringing Lean principles into software development while driving fear out of the transformation process through incremental change. Anderson provides four rules for implementing Kanban:
 
 1. Start with existing processes
 2. Pursue incremental, evolutionary change
