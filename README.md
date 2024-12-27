@@ -73,8 +73,9 @@ Notes from books that I've finished reading but haven't made notes yet.
 * Lean Software Development: An Agile Toolkit: An Agile Toolkit (Agile Software Development Series) by Mary Poppendieck, Tom Poppendieck
 * The Art of Business Value by Mark Schwartz
 * The Upside of Irrationality: The Unexpected Benefits of Defying Logic at Work and at Home by Dan Ariely
-* Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better
+* Recoding America: Why Government Is Failing in the Digital Age and How We Can Do Better by Jennifer Pahlka
 * The Laws of Simplicity: Design, Technology, Business, Life
+* The Kubernetes Book, 2024 Edition by Nigel Poulton
 
 ### To Read
 
